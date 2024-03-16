@@ -1,6 +1,9 @@
 <h1 align="center">Metodologia Aplicada na Resolução de Problemas através da Matemática & Python</h1>
 
 
+
+## Metodologia Aplicada (MA)
+
 <p align="center">
   <table>
     <tr>
@@ -10,11 +13,6 @@
     </tr>
   </table>
 </p>
-
-
-## Metodologia Aplicada (MA)
-
-
 
 **Este é meu espaço dedicado a transformar o ensino e a aprendizagem de matemática e programação no Brasil, por meio do uso da ferramenta Google Colaboratory, fornecida pela Alphabet.**
 
