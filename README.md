@@ -2,7 +2,13 @@
 
 
 <p align="center">
-  <img src="https://github.com/IM-NOT-AI/MA-Educacao-AbstracaoLogica-Python-Matematica-Interpretacao/assets/113378671/8061efc5-9f52-499d-8bbe-8517df36d308" alt="fusca_foto_ic" width="330">
+  <table>
+    <tr>
+      <td><img src="https://github.com/IM-NOT-AI/MA-Educacao-AbstracaoLogica-Python-Matematica-Interpretacao/assets/113378671/8061efc5-9f52-499d-8bbe-8517df36d308" alt="fusca_foto_ic" width="330"></td>
+      <td><img src="https://github.com/IM-NOT-AI/MA-Educacao-AbstracaoLogica-Python-Matematica-Interpretacao/assets/113378671/8061efc5-9f52-499d-8bbe-8517df36d308" alt="fusca_foto_ic" width="330"></td>
+      <td><img src="https://github.com/IM-NOT-AI/MA-Educacao-AbstracaoLogica-Python-Matematica-Interpretacao/assets/113378671/8061efc5-9f52-499d-8bbe-8517df36d308" alt="fusca_foto_ic" width="330"></td>
+    </tr>
+  </table>
 </p>
 
 
