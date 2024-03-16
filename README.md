@@ -1,19 +1,5 @@
 <h1 align="center">Metodologia Aplicada na Resolução de Problemas através da Matemática & Python</h1>
 
-
-
-## Metodologia Aplicada (MA)
-
-<p align="center">
-  <table>
-    <tr>
-      <td><img src="https://github.com/IM-NOT-AI/MA-Educacao-AbstracaoLogica-Python-Matematica-Interpretacao/assets/113378671/8061efc5-9f52-499d-8bbe-8517df36d308" alt="fusca_foto_ic" width="350"></td>
-      <td><img src="https://github.com/IM-NOT-AI/MA-Educacao-AbstracaoLogica-Python-Matematica-Interpretacao/assets/113378671/3253054a-d60e-430c-8b5c-4bdf80c1e1d5" alt="fusca_foto_ic" width="350"></td>
-      <td><img src="https://github.com/IM-NOT-AI/MA-Educacao-AbstracaoLogica-Python-Matematica-Interpretacao/assets/113378671/8dc2ec76-c640-4cd0-8109-65444593d054" width="200"></td>
-    </tr>
-  </table>
-</p>
-
 **Este é meu espaço dedicado a transformar o ensino e a aprendizagem de matemática e programação no Brasil, por meio do uso da ferramenta Google Colaboratory, fornecida pela Alphabet.**
 
 **Aqui, ofereço uma coleção de notebooks interativos projetados para fortalecer a base matemática de estudantes e introduzi-los à lógica de programação com Python. Adoto uma metodologia prática e imersiva, permitindo que os alunos aprendam ativamente com exercícios integrados em cada passo do processo.**
@@ -31,6 +17,20 @@
 - **Seções de Resolução e Interpretação**, onde explico as soluções passo a passo.
 - **A aplicação de conceitos Matemáticos e de Programação** no contexto proposto.
 - **Exercícios para Prática Ativa**, visando a consolidação do aprendizado.
+
+
+## Metodologia Aplicada (MA)
+
+<p align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/IM-NOT-AI/MA-Educacao-AbstracaoLogica-Python-Matematica-Interpretacao/assets/113378671/8061efc5-9f52-499d-8bbe-8517df36d308" alt="fusca_foto_ic" width="350"></td>
+      <td><img src="https://github.com/IM-NOT-AI/MA-Educacao-AbstracaoLogica-Python-Matematica-Interpretacao/assets/113378671/3253054a-d60e-430c-8b5c-4bdf80c1e1d5" alt="fusca_foto_ic" width="350"></td>
+      <td><img src="https://github.com/IM-NOT-AI/MA-Educacao-AbstracaoLogica-Python-Matematica-Interpretacao/assets/113378671/8dc2ec76-c640-4cd0-8109-65444593d054" width="200"></td>
+    </tr>
+  </table>
+</p>
+
 
 ## Tecnologias e Bibliotecas
 
