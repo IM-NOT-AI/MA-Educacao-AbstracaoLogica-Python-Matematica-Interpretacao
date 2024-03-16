@@ -64,7 +64,6 @@ Acredito que a aprendizagem efetiva vai além do mero conhecimento teórico, eng
 ## Abstração Lógica
 
 A Abstração Lógica é crucial para o entendimento profundo da Matemática. Nosso projeto enfatiza a importância de desmembrar problemas complexos em componentes mais simples, facilitando a compreensão e a solução de exercícios. Através da programação em Python, os alunos aprendem a visualizar e manipular conceitos abstratos, tornando-os mais acessíveis.
-## Tecnologias e Bibliotecas
 
 
 ## Python
