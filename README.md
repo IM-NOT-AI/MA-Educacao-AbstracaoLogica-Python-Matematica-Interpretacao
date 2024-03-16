@@ -51,9 +51,10 @@ Para fundamentar a metodologia e práticas adotadas, apoio-me em uma vasta liter
 * Karpicke, J.D., & Roediger, H.L. (2008). The critical importance of retrieval for learning. Science, 319(5865), 966-968.
 
 * Rosenshine, B. (2012). Principles of instruction: Research-based strategies that all teachers should know. American Educator, 36(1), 12-19, 39.
-Hattie, J., & Timperley, H. (2007). The power of feedback. Review of Educational Research, 77(1), 81-112.
 
-* Estas referências sustentam a abordagem e são uma fonte valiosa de insights e práticas recomendadas no ensino de matemática e programação.
+* Hattie, J., & Timperley, H. (2007). The power of feedback. Review of Educational Research, 77(1), 81-112.
+
+ Estas referências sustentam a abordagem e são uma fonte valiosa de insights e práticas recomendadas no ensino de matemática e programação.
 
 
 ## Educação
