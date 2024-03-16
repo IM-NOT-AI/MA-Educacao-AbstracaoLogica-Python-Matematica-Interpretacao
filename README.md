@@ -4,7 +4,7 @@
 <p align="center">
   <table>
     <tr>
-      <td><img src="https://github.com/IM-NOT-AI/MA-Educacao-AbstracaoLogica-Python-Matematica-Interpretacao/assets/113378671/8061efc5-9f52-499d-8bbe-8517df36d308" alt="fusca_foto_ic" width="400"></td>
+      <td><img src="https://github.com/IM-NOT-AI/MA-Educacao-AbstracaoLogica-Python-Matematica-Interpretacao/assets/113378671/8061efc5-9f52-499d-8bbe-8517df36d308" alt="fusca_foto_ic" width="350"></td>
       <td><img src="https://github.com/IM-NOT-AI/MA-Educacao-AbstracaoLogica-Python-Matematica-Interpretacao/assets/113378671/3253054a-d60e-430c-8b5c-4bdf80c1e1d5" alt="fusca_foto_ic" width="350"></td>
       <td><img src="https://github.com/IM-NOT-AI/MA-Educacao-AbstracaoLogica-Python-Matematica-Interpretacao/assets/113378671/8dc2ec76-c640-4cd0-8109-65444593d054" width="200"></td>
     </tr>
