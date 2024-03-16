@@ -22,5 +22,5 @@
 
 **Inicio com operações aritméticas básicas e progressivamente abordo temas mais complexos, recorrendo a bibliotecas como Pandas, Numpy, Matplotlib e Seaborn. Essas ferramentas me permitem trazer a matemática à vida através de visualizações gráficas e análises detalhadas.**
 
-**Convido você a se juntar a mim nesta jornada educacional, onde cada arquivo .ipynb representa uma nova oportunidade de aprender, praticar e desbravar o mundo da matemática e programação. Estou comprometido(a) em tornar a educação mais acessível, interativa e significativa para estudantes brasileiros.**
+**Convido você a se juntar a mim nesta jornada educacional, onde cada arquivo .ipynb representa uma nova oportunidade de aprender, praticar e desbravar o mundo da matemática e programação. Estou comprometido em tornar a educação mais acessível, interativa e significativa para estudantes brasileiros.**
 
