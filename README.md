@@ -4,11 +4,11 @@
 
 **Aqui, ofereço uma coleção de notebooks interativos projetados para fortalecer a base matemática de estudantes e introduzi-los à lógica de programação com Python. Adoto uma metodologia prática e imersiva, permitindo que os alunos aprendam ativamente com exercícios integrados em cada passo do processo.**
 
-## Objetivo
+### Objetivo
 
 **Meu objetivo é transcender as barreiras do ensino básico de matemática no Brasil, oferecendo um caminho acessível e estimulante para o domínio de conceitos essenciais por meio da programação. Começo com fundamentos, como razões e proporções, avançando para conceitos mais sofisticados que exigem o uso de ferramentas computacionais avançadas para a visualização de dados e análise estatística.**
 
-## Estrutura dos Notebooks
+### Estrutura dos Notebooks
 
 **Cada notebook é criado como uma "página" de aprendizado que contém:**
 
