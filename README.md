@@ -1,6 +1,6 @@
 # MA-Educacao-AbstracaoLogica-Python-Matematica-Interpretacao
 
-**Este é meu espaço dedicado a transformar o ensino e a aprendizagem de matemática e programação no Brasil, por meio do uso da ferramenta Google Colab, fornecida pela Alphabet.**
+**Este é meu espaço dedicado a transformar o ensino e a aprendizagem de matemática e programação no Brasil, por meio do uso da ferramenta Google Colaboratory, fornecida pela Alphabet.**
 
 **Aqui, ofereço uma coleção de notebooks interativos projetados para fortalecer a base matemática de estudantes e introduzi-los à lógica de programação com Python. Adoto uma metodologia prática e imersiva, permitindo que os alunos aprendam ativamente com exercícios integrados em cada passo do processo.**
 
@@ -21,6 +21,24 @@
 ## Tecnologias e Bibliotecas
 
 **Inicio com operações aritméticas básicas e progressivamente abordo temas mais complexos, recorrendo a bibliotecas como Pandas, Numpy, Matplotlib e Seaborn. Essas ferramentas me permitem trazer a matemática à vida através de visualizações gráficas e análises detalhadas.**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 **Convido você a se juntar a mim nesta jornada educacional, onde cada arquivo .ipynb representa uma nova oportunidade de aprender, praticar e desbravar o mundo da matemática e programação. Estou comprometido em tornar a educação mais acessível, interativa e significativa para estudantes brasileiros.**
 
