@@ -1,4 +1,14 @@
-# MA-Educacao-AbstracaoLogica-Python-Matematica-Interpretacao
+# Metodologia Aplicada na Educação Matemática através da Programação em Python
+
+
+<p align="center">
+  <img src="https://github.com/IM-NOT-AI/MA-Educacao-AbstracaoLogica-Python-Matematica-Interpretacao/assets/113378671/8061efc5-9f52-499d-8bbe-8517df36d308" alt="fusca_foto_ic" width="330">
+</p>
+
+
+## Metodologia Aplicada (MA)
+
+
 
 **Este é meu espaço dedicado a transformar o ensino e a aprendizagem de matemática e programação no Brasil, por meio do uso da ferramenta Google Colaboratory, fornecida pela Alphabet.**
 
