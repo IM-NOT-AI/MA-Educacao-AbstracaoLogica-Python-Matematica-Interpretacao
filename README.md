@@ -1,4 +1,4 @@
-# Metodologia Aplicada na Educação Matemática através da Programação em Python
+# Metodologia Aplicada na Resolução de Problemas através da Matemática & Python
 
 
 <p align="center">
