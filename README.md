@@ -5,8 +5,8 @@
     <tr>
       <td><img src="https://github.com/IM-NOT-AI/MA-Educacao-AbstracaoLogica-Python-Matematica-Interpretacao/assets/113378671/30c3f491-b4ea-449b-97e3-ee3a3cd685a5" alt="readjusted-abstracao-logica" width="350"></td>
       <td><img src="https://github.com/IM-NOT-AI/MA-Educacao-AbstracaoLogica-Python-Matematica-Interpretacao/assets/113378671/46e1e5bb-598f-43e6-a52b-843b0660c8a4" alt="readjusted-python" width="350"></td>
-      <td><img src="https://github.com/IM-NOT-AI/MA-Educacao-AbstracaoLogica-Python-Matematica-Interpretacao/assets/113378671/9b16da51-e1f7-4373-a0da-ef92c81765bc" alt="readjusted-matematica2" width="200"></td>
-      <td><img src="https://github.com/IM-NOT-AI/MA-Educacao-AbstracaoLogica-Python-Matematica-Interpretacao/assets/113378671/48317f4d-b950-4016-a165-392e4eb421ac" alt="reajusted-interpretacao" width="200"></td>
+      <td><img src="https://github.com/IM-NOT-AI/MA-Educacao-AbstracaoLogica-Python-Matematica-Interpretacao/assets/113378671/9b16da51-e1f7-4373-a0da-ef92c81765bc" alt="readjusted-matematica2" width="350"></td>
+      <td><img src="https://github.com/IM-NOT-AI/MA-Educacao-AbstracaoLogica-Python-Matematica-Interpretacao/assets/113378671/48317f4d-b950-4016-a165-392e4eb421ac" alt="reajusted-interpretacao" width="350"></td>
     </tr>
   </table>
 </p>
