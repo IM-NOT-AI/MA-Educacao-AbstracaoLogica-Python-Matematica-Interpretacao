@@ -3,13 +3,12 @@
 <p align="center">
   <table>
     <tr>
-      <td><img src="[https://github.com/IM-NOT-AI/MA-Educacao-AbstracaoLogica-Python-Matematica-Interpretacao/assets/113378671/8061efc5-9f52-499d-8bbe-8517df36d308](https://github.com/IM-NOT-AI/MA-Educacao-AbstracaoLogica-Python-Matematica-Interpretacao/assets/113378671/30c3f491-b4ea-449b-97e3-ee3a3cd685a5)" alt="fusca_foto_ic" width="350"></td>
-      <td><img src="https://github.com/IM-NOT-AI/MA-Educacao-AbstracaoLogica-Python-Matematica-Interpretacao/assets/113378671/3253054a-d60e-430c-8b5c-4bdf80c1e1d5" alt="readjusted-abstracao-logica" width="350"></td>
+      <td><img src="https://github.com/IM-NOT-AI/MA-Educacao-AbstracaoLogica-Python-Matematica-Interpretacao/assets/113378671/30c3f491-b4ea-449b-97e3-ee3a3cd685a5" alt="readjusted-abstracao-logica" width="350"></td>
+      <td><img src="https://github.com/IM-NOT-AI/MA-Educacao-AbstracaoLogica-Python-Matematica-Interpretacao/assets/113378671/3253054a-d60e-430c-8b5c-4bdf80c1e1d5" alt="fusca_foto_ic" width="350"></td>
       <td><img src="https://github.com/IM-NOT-AI/MA-Educacao-AbstracaoLogica-Python-Matematica-Interpretacao/assets/113378671/8dc2ec76-c640-4cd0-8109-65444593d054" width="200"></td>
     </tr>
   </table>
 </p>
-
 
 **Este é meu espaço dedicado a transformar o ensino e a aprendizagem de matemática e programação no Brasil, por meio do uso da ferramenta Google Colaboratory, fornecida pela Alphabet.**
 
