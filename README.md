@@ -12,12 +12,6 @@
 </p>
 
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=aimSGOAUI8Y">
-    <img src="https://raw.githubusercontent.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi/master/doc/YouTube_video1.JPG" alt="Link para o vídeo de Evan Juras no YouTube">
-  </a>
-</p>
-
 **Este é meu espaço dedicado a transformar o ensino e a aprendizagem de matemática e programação no Brasil, por meio do uso da ferramenta Google Colaboratory, fornecida pela Alphabet.**
 
 **Aqui, ofereço uma coleção de notebooks interativos projetados para fortalecer a base matemática de estudantes e introduzi-los à lógica de programação com Python. Adoto uma metodologia prática e imersiva, permitindo que os alunos aprendam ativamente com exercícios integrados em cada passo do processo.**
