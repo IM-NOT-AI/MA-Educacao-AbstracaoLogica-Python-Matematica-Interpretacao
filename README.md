@@ -67,7 +67,7 @@
   </p>
 
   <p align="center">
-  <img src="https://github.com/IM-NOT-AI/MA-Educacao-AbstracaoLogica-Python-Matematica-Interpretacao/assets/113378671/386234bb-7694-43b9-a214-c7b1ad16594e" alt="demo-abp" width"750">
+  <img src="https://github.com/IM-NOT-AI/MA-Educacao-AbstracaoLogica-Python-Matematica-Interpretacao/assets/113378671/386234bb-7694-43b9-a214-c7b1ad16594e" alt="demo-abp" width"400">
 </p>
   </details>
 
