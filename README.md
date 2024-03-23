@@ -92,10 +92,11 @@ A aprendizagem efetiva vai além do mero conhecimento teórico, englobando o des
 </details>
 
 
-## Abstração Lógica
+<details>
+  <summary><h2>Abstração Lógica</h2></summary>
 
 A Abstração Lógica é crucial para o entendimento profundo da matemática e programação. Esse projeto enfatiza a importância de desmembrar problemas complexos em componentes mais simples, facilitando a compreensão e a solução de exercícios. Através da programação em Python, os alunos aprendem a visualizar e manipular conceitos abstratos, tornando-os mais acessíveis.
-
+</details>
 
 ## Python
 A escolha de Python como a linguagem de programação para este projeto não é aleatória. Sua simplicidade sintática, combinada com a potência de bibliotecas como Matplotlib, Seaborn, Scipy, Pandas, e Numpy, torna Python uma ferramenta excepcional para visualizar dados, realizar cálculos complexos e interpretar resultados matemáticos. Essa integração permite aos alunos ver a aplicabilidade real dos conceitos aprendidos, enriquecendo sua experiência educativa.
