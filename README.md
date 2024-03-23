@@ -33,7 +33,9 @@
   
      </details>
    </details>
-  
+
+---
+
 <details>
   <summary><h2>Metodologia Aplicada (MA)</h2></summary>
 
@@ -86,12 +88,15 @@ Após uma sessão de estudo ou uma atividade de aprendizagem, dedicar um tempo p
   </details>
 </details>
 
-  
+---
+
 <details>
   <summary><h2>Educação</h2></summary>
 
 A aprendizagem efetiva vai além do mero conhecimento teórico, englobando o desenvolvimento de habilidades práticas e o estímulo ao pensamento crítico. Esse repositório é desenhado para promover não só a absorção de conceitos matemáticos e de programação mas também para fomentar uma mentalidade de aprendizado contínuo e autodidata entre os estudantes.
 </details>
+
+---
 
 <details>
   <summary><h2>Abstração Lógica</h2></summary>
@@ -99,11 +104,15 @@ A aprendizagem efetiva vai além do mero conhecimento teórico, englobando o des
 A Abstração Lógica é crucial para o entendimento profundo da matemática e programação. Esse projeto enfatiza a importância de desmembrar problemas complexos em componentes mais simples, facilitando a compreensão e a solução de exercícios. Através da programação em Python, os alunos aprendem a visualizar e manipular conceitos abstratos, tornando-os mais acessíveis.
 </details>
 
+---
+
 <details>
   <summary><h2>Python</h2></summary>
 
 A escolha de Python como a linguagem de programação para este projeto não é aleatória. Sua simplicidade sintática, combinada com a potência de bibliotecas como Matplotlib, Seaborn, Scipy, Pandas, e Numpy, torna Python uma ferramenta excepcional para visualizar dados, realizar cálculos complexos e interpretar resultados matemáticos. Essa integração permite aos alunos ver a aplicabilidade real dos conceitos aprendidos, enriquecendo sua experiência educativa.
 </details>
+
+---
 
 <details>
   <summary><h2>Matemática</h2></summary>
@@ -111,12 +120,16 @@ A escolha de Python como a linguagem de programação para este projeto não é 
 A Matemática é o núcleo do nosso projeto. Cada arquivo .ipynb no repositório aborda um tópico específico, desde os fundamentos básicos até conceitos avançados, oferecendo uma vasta gama de problemas para resolver. Esta abordagem garante que os alunos possam progredir no seu próprio ritmo, consolidando o conhecimento adquirido através da prática.
 </details>
 
+---
+
 <details>
   <summary><h2>Interpretação</h2></summary>
 
 Finalmente, a Interpretação de resultados é enfatizada em cada aspecto do projeto. Além de resolver problemas, os alunos são incentivados a analisar e interpretar os resultados obtidos, uma habilidade vital tanto no estudo da matemática quanto em sua aplicação prática. Este foco na interpretação ajuda a desenvolver pensadores críticos e solucionadores de problemas eficazes.
 </details>
 
+
+---
 
 <br><br>
 
