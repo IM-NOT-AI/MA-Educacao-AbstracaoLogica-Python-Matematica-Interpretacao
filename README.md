@@ -13,8 +13,7 @@
 
 ---
 
-<details>
-  <summary><h2>Objetivo</h2></summary>
+## Objetivo
 
   <p align="justify">
     Este é meu espaço dedicado a transformar o ensino e a aprendizagem de matemática e programação no Brasil, por meio do uso da ferramenta Google Colaboratory, fornecida pela Alphabet.
@@ -29,8 +28,7 @@
     Meu objetivo é transcender as barreiras do ensino básico de matemática no Brasil, oferecendo um caminho acessível e estimulante para o domínio de conceitos essenciais por meio da programação. Começo com fundamentos, como razões e proporções, avançando para conceitos mais sofisticados que exigem o uso de ferramentas computacionais avançadas para a visualização de dados e análise estatística.
   </p>
 
- <details>
-    <summary><h3>Estrutura dos Notebooks</h3></summary>
+### Estrutura dos Notebooks
 
 **Cada notebook é criado como uma "página" de aprendizado que contém:**
 
@@ -40,8 +38,7 @@
 - **A aplicação de conceitos Matemáticos e de Programação** no contexto proposto.
 - **Exercícios para Prática Ativa**, visando a consolidação do aprendizado.
   
-     </details>
-   </details>
+ 
 
 ---
 
