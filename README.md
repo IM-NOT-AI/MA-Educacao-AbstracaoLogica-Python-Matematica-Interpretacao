@@ -34,7 +34,7 @@
 
 **Cada notebook é criado como uma "página" de aprendizado que contém:**
 
-<br>
+
 
 - **Um Enunciado** que introduz o problema ou conceito em foco.
 - **Espaços para Tentativas de Resolução**, encorajando a prática independente antes de revelar as soluções.
