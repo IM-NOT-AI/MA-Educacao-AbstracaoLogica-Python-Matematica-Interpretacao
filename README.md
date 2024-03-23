@@ -63,9 +63,13 @@
     <summary><h3>Aprendizagem Baseada em Problemas (ABP)</h3></summary>
   
   <p align="justify">
-    Imersão em problemas complexos e reais, estimulando o pensamento crítico e a aplicação prática do conhecimento.
+    Imersão em problemas com diferentes categorias de dificuldade, estimulando o pensamento crítico e a aplicação prática do conhecimento.
   </p>
   </details>
+
+<p align="center">
+  <img src="https://github.com/IM-NOT-AI/MA-Educacao-AbstracaoLogica-Python-Matematica-Interpretacao/assets/113378671/386234bb-7694-43b9-a214-c7b1ad16594e" alt="demo-abp" width"1500">
+</p>
 
    <details>
     <summary><h3>Codificação Dupla</h3></summary> 
