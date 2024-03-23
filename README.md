@@ -74,7 +74,11 @@
    <details>
     <summary><h3>Codificação Dupla</h3></summary> 
   <p align="justify">
-    Combinar palavras e imagens no aprendizado. Estudar utilizando tanto a explicação verbal quanto o apoio visual pode melhorar a retenção de informações.
+    Combinar palavras e imagens no aprendizado. Estudar utilizando tanto a explicação textual quanto o apoio visual pode melhorar a retenção de informações.
+  </p>
+
+  <p align="center">
+    <img src="https://github.com/IM-NOT-AI/MA-Educacao-AbstracaoLogica-Python-Matematica-Interpretacao/assets/113378671/58f9b45b-c72d-46b0-9546-21d2914b515e" alt="cod-dupla-img-demo" width="500">
   </p>
     </details>
   
