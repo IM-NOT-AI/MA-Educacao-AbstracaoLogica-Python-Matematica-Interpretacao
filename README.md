@@ -86,6 +86,15 @@
   <p align="justify">
     Técnicas de revisão espaçada para facilitar a retenção de informação a longo prazo, garantindo que o conhecimento se fixe na memória do estudante.
   </p>
+
+<p align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/IM-NOT-AI/MA-Educacao-AbstracaoLogica-Python-Matematica-Interpretacao/assets/113378671/2ca63518-ebb3-4eb9-98a5-f45c7c4a521e" alt="fusca_foto_ic" width="350"></td>
+    </tr>
+  </table>
+  </p>
+  
   </details>
 
   <details>
