@@ -91,6 +91,7 @@
   <table>
     <tr>
       <td><img src="https://github.com/IM-NOT-AI/MA-Educacao-AbstracaoLogica-Python-Matematica-Interpretacao/assets/113378671/2ca63518-ebb3-4eb9-98a5-f45c7c4a521e" alt="fusca_foto_ic" width="500"></td>
+      <td><img src="https://github.com/IM-NOT-AI/MA-Educacao-AbstracaoLogica-Python-Matematica-Interpretacao/assets/113378671/352fe1c3-a8ee-415e-942a-c2d3bcb46613"alt="repeticao-espacada=ipynb2" width=500</td>
     </tr>
   </table>
   </p>
