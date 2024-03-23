@@ -11,7 +11,6 @@
   </table>
 </p>
 
-## Uma Jornada Interativa com Google Colaboratory
 
 **Este é meu espaço dedicado a transformar o ensino e a aprendizagem de matemática e programação no Brasil, por meio do uso da ferramenta Google Colaboratory, fornecida pela Alphabet.**
 
