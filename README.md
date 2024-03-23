@@ -14,8 +14,6 @@
 <details>
   <summary><h2>Objetivo</h2></summary>
 
-  <br>
-  
 **Este é meu espaço dedicado a transformar o ensino e a aprendizagem de matemática e programação no Brasil, por meio do uso da ferramenta Google Colaboratory, fornecida pela Alphabet.**
 
 **Aqui, ofereço uma coleção de notebooks interativos projetados para fortalecer a base matemática de estudantes e introduzi-los à lógica de programação com Python. Adoto uma metodologia prática e imersiva, permitindo que os alunos aprendam ativamente com exercícios integrados em cada passo do processo.**
@@ -35,8 +33,6 @@
   
      </details>
    </details>
-   
-  <br><br>
   
 <details>
   <summary><h2>Metodologia Aplicada (MA)</h2></summary>
@@ -62,26 +58,38 @@ Imersão em problemas complexos e reais, estimulando o pensamento crítico e a a
  <details>
     <summary><h3>Codificação Dupla</h3></summary> 
 Combinar palavras e imagens no aprendizado. Estudar utilizando tanto a explicação verbal quanto o apoio visual pode melhorar a retenção de informações.
-
-### Aprendizagem Ativa
+  </details>
+  
+  <details>
+    <summary><h3>Aprendizagem Ativa</h3></summary> 
 Participação ativa através de exercícios práticos e espaços de tentativa e erro, fundamentais para a consolidação do aprendizado.
-
-### Repetição Espaçada
+  </details>
+  
+  <details>
+    <summary><h3>Repetição Espaçada</h3></summary>
 Técnicas de revisão espaçada para facilitar a retenção de informação a longo prazo, garantindo que o conhecimento se fixe na memória do estudante.
+  </details>
 
-### Método de Feynman
+  <details>
+    <summary><h3>Método de Feynman</h3></summary>
 Simplificar e explicar conceitos complexos com uma linguagem simples, como se estivesse ensinando a alguém que não conhece o tema.
-
-### Aprendizagem Interpolada
+  </details>
+  
+  <details>
+    <summary><h3>Aprendizagem Interpolada</h3></summary>
 Alternar entre diferentes tópicos ou tipos de problemas durante a sessão de estudo para melhorar a capacidade de discriminação entre conceitos e aumentar a retenção.
+  </details>
 
-### Reflexão 
+  <details>
+    <summary><h3>Reflexão</h3></summary> 
 Após uma sessão de estudo ou uma atividade de aprendizagem, dedicar um tempo para refletir sobre o que foi aprendido e como foi aprendido pode reforçar a memória e promover a compreensão profunda.
+  </details>
 
-
-## Educação
+<details>
+  <summary><h2>Educação</h2></summary>
 
 A aprendizagem efetiva vai além do mero conhecimento teórico, englobando o desenvolvimento de habilidades práticas e o estímulo ao pensamento crítico. Esse repositório é desenhado para promover não só a absorção de conceitos matemáticos e de programação mas também para fomentar uma mentalidade de aprendizado contínuo e autodidata entre os estudantes.
+</details>
 
 
 ## Abstração Lógica
