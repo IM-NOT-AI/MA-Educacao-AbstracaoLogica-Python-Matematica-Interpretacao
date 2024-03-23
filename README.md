@@ -104,9 +104,7 @@
 <br>
 
 - **TDR2:** No dia seguinte, leia o enunciado de forma superficial para relembrar o problema, vá na seção **TDR2** e revele-a, mantendo a seção anterior ocultada se:
-
 <br>
-
   -  Caso você tenha errado, tente relembrar (não veja) as seções de **RESOLUÇÕES** vistas no dia anterior e estruture uma nova lógica baseando-se no que já foi visto. Após finalizar o novo código, faça as anotações necessárias e revele a seção **TDR1** para comparar o que foi realizado na sua primeira tentativa de resolução com a segunda.
   -  Caso você tenha obtido êxito no resultado, revele a seção **TDR1** e tente organizar uma lógica que seja diferente da anterior mas que ainda assim obtenha o mesmo resultado, em outras palavras, tente resolver de maneira diferente da anterior e descreva as anotações necessárias. Na seção de comparação, exemplifique o que foi feito diferente nessa nova tentativa.
  
