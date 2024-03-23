@@ -72,32 +72,44 @@
 
    <details>
     <summary><h3>Codificação Dupla</h3></summary> 
-Combinar palavras e imagens no aprendizado. Estudar utilizando tanto a explicação verbal quanto o apoio visual pode melhorar a retenção de informações.
+  <p align="justify">
+    Combinar palavras e imagens no aprendizado. Estudar utilizando tanto a explicação verbal quanto o apoio visual pode melhorar a retenção de informações.
+  </p>
     </details>
   
   <details>
     <summary><h3>Aprendizagem Ativa</h3></summary> 
-Participação ativa através de exercícios práticos e espaços de tentativa e erro, fundamentais para a consolidação do aprendizado.
+  <p align="justify">
+    Participação ativa através de exercícios práticos e espaços de tentativa e erro, fundamentais para a consolidação do aprendizado.
+  </p>
   </details>
   
   <details>
     <summary><h3>Repetição Espaçada</h3></summary>
-Técnicas de revisão espaçada para facilitar a retenção de informação a longo prazo, garantindo que o conhecimento se fixe na memória do estudante.
+  <p align="justify">
+    Técnicas de revisão espaçada para facilitar a retenção de informação a longo prazo, garantindo que o conhecimento se fixe na memória do estudante.
+  </p>
   </details>
 
   <details>
     <summary><h3>Método de Feynman</h3></summary>
-Simplificar e explicar conceitos complexos com uma linguagem simples, como se estivesse ensinando a alguém que não conhece o tema.
+  <p align="justify">
+    Simplificar e explicar conceitos complexos com uma linguagem simples, como se estivesse ensinando a alguém que não conhece o tema.
+  </p>
   </details>
   
   <details>
     <summary><h3>Aprendizagem Interpolada</h3></summary>
-Alternar entre diferentes tópicos ou tipos de problemas durante a sessão de estudo para melhorar a capacidade de discriminação entre conceitos e aumentar a retenção.
+  <p align="justify">
+    Alternar entre diferentes tópicos ou tipos de problemas durante a sessão de estudo para melhorar a capacidade de discriminação entre conceitos e aumentar a retenção.
+  </p>
   </details>
 
   <details>
     <summary><h3>Reflexão</h3></summary> 
-Após uma sessão de estudo ou uma atividade de aprendizagem, dedicar um tempo para refletir sobre o que foi aprendido e como foi aprendido pode reforçar a memória e promover a compreensão profunda.
+  <p align="justify">
+    Após uma sessão de estudo ou uma atividade de aprendizagem, dedicar um tempo para refletir sobre o que foi aprendido e como foi aprendido pode reforçar a memória e promover a compreensão profunda.
+  </p>
   </details>
 </details>
 
