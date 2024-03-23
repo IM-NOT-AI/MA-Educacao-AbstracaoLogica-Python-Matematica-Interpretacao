@@ -32,9 +32,9 @@
 - **Seções de Resolução e Interpretação**, onde explico as soluções passo a passo.
 - **A aplicação de conceitos Matemáticos e de Programação** no contexto proposto.
 - **Exercícios para Prática Ativa**, visando a consolidação do aprendizado.
-
- </details>
- 
+  
+     </details>
+   </details>
   <br><br>
   
 <details>
