@@ -97,19 +97,22 @@
   </p>
 
 <p align="justify">
-  Após o **ENUNCIADO**.em todos os arquivos haverá uma seção de **TENTATIVA DE RESOLUÇÃO (TDR)** o ideal é que você tente resolver sozinho na seguinte maneira: 
+  Após o "ENUNCIADO".em todos os arquivos haverá uma seção de "TENTATIVA DE RESOLUÇÃO (TDR)" o ideal é que você tente resolver sozinho na seguinte maneira: 
   
 - **TDR1:** Após ler o enunciado, revele a seção e tente realizar sozinho o problema, por mais que você não saiba como programar, anote suas dúvidas e como você estruturou sua lógica de forma sequencial para chegar no resultado esperado. Em seguida, oculte a seção **TDR1** e, no próprio arquivo, continue com as seções de **INTERPRETAÇÃO**, **MATEMÁTICA**, **PROGRAMAÇÃO** e **ANÁLISE E REFLEXÃO**, lendo com extrema atenção cada um dos passos, para você visualizar uma das maneiras de resolver o problema.
 
 <br>
 
 - **TDR2:** No dia seguinte, leia o enunciado de forma superficial para relembrar o problema, vá na seção **TDR2** e revele-a, mantendo a seção anterior ocultada se:
+
+<br>
+
   -  Caso você tenha errado, tente relembrar (não veja) as seções de **RESOLUÇÕES** vistas no dia anterior e estruture uma nova lógica baseando-se no que já foi visto. Após finalizar o novo código, faça as anotações necessárias e revele a seção **TDR1** para comparar o que foi realizado na sua primeira tentativa de resolução com a segunda.
   -  Caso você tenha obtido êxito no resultado, revele a seção **TDR1** e tente organizar uma lógica que seja diferente da anterior mas que ainda assim obtenha o mesmo resultado, em outras palavras, tente resolver de maneira diferente da anterior e descreva as anotações necessárias. Na seção de comparação, exemplifique o que foi feito diferente nessa nova tentativa.
  
 <br>
 
--**TDR3 & TDR4:** Após um tempo, o conteúdo visto não estará tão fresco na memória, portanto, leia o enunciado com atenção e repita o processo das etapas anteriores referentes as **TDRs** e encontre maneiras diferentes de resolver o mesmo problema, sempre revele quando necessário e oculte as tentativas de resolução anteriores para forçar o seu cérebro a lembrar das informações já vistas. Assim, ele acreditará que tais informações são relevantes para lembrar e, dessa maneira, pouco a pouco, tais informações se transformarão em conhecimento, passando da sua memória de curto prazo para longo prazo.
+- **TDR3 & TDR4:** Após um tempo, o conteúdo visto não estará tão fresco na memória, portanto, leia o enunciado com atenção e repita o processo das etapas anteriores referentes as **TDRs** e encontre maneiras diferentes de resolver o mesmo problema, sempre revele quando necessário e oculte as tentativas de resolução anteriores para forçar o seu cérebro a lembrar das informações já vistas. Assim, ele acreditará que tais informações são relevantes para lembrar e, dessa maneira, pouco a pouco, tais informações se transformarão em conhecimento, passando da sua memória de curto prazo para longo prazo.
 
 
   
