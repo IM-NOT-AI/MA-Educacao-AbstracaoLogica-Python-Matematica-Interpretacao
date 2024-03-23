@@ -43,19 +43,13 @@
   </table>
 </p>
 
-A base teórica deste projeto se alinha com metodologias de aprendizado comprovadas, integrando a abstração lógica e a resolução de problemas matemáticos através da programação em Python. Meu foco é promover uma compreensão profunda dos conceitos, através de:
+A base teórica deste projeto se alinha com metodologias de aprendizado, integrando a abstração lógica e a resolução de problemas matemáticos através da programação em Python. O escopo é promover uma compreensão profunda dos conceitos, através de:
 
 ### Aprendizagem Baseada em Problemas (ABP)
 Imersão em problemas complexos e reais, estimulando o pensamento crítico e a aplicação prática do conhecimento.
 
-### Método de Feynman
-Simplificar e explicar conceitos complexos com uma linguagem simples, como se estivesse ensinando a alguém que não conhece o tema.
-
 ### Codificação Dupla 
 Combinar palavras e imagens no aprendizado. Estudar utilizando tanto a explicação verbal quanto o apoio visual pode melhorar a retenção de informações.
-
-### Aprendizagem Interpolada
-Alternar entre diferentes tópicos ou tipos de problemas durante a sessão de estudo para melhorar a capacidade de discriminação entre conceitos e aumentar a retenção.
 
 ### Aprendizagem Ativa
 Participação ativa através de exercícios práticos e espaços de tentativa e erro, fundamentais para a consolidação do aprendizado.
@@ -63,19 +57,14 @@ Participação ativa através de exercícios práticos e espaços de tentativa e
 ### Repetição Espaçada
 Técnicas de revisão espaçada para facilitar a retenção de informação a longo prazo, garantindo que o conhecimento se fixe na memória do estudante.
 
+### Método de Feynman
+Simplificar e explicar conceitos complexos com uma linguagem simples, como se estivesse ensinando a alguém que não conhece o tema.
+
+### Aprendizagem Interpolada
+Alternar entre diferentes tópicos ou tipos de problemas durante a sessão de estudo para melhorar a capacidade de discriminação entre conceitos e aumentar a retenção.
+
 ### Reflexão 
 Após uma sessão de estudo ou uma atividade de aprendizagem, dedicar um tempo para refletir sobre o que foi aprendido e como foi aprendido pode reforçar a memória e promover a compreensão profunda.
-
-### Referências
-Para fundamentar a metodologia e práticas adotadas, apoio-me em uma vasta literatura educacional, incluindo:
-
-* Karpicke, J.D., & Roediger, H.L. (2008). The critical importance of retrieval for learning. Science, 319(5865), 966-968.
-
-* Rosenshine, B. (2012). Principles of instruction: Research-based strategies that all teachers should know. American Educator, 36(1), 12-19, 39.
-
-* Hattie, J., & Timperley, H. (2007). The power of feedback. Review of Educational Research, 77(1), 81-112.
-
- Estas referências sustentam a abordagem e são uma fonte valiosa de insights e práticas recomendadas no ensino de matemática e programação.
 
 
 ## Educação
