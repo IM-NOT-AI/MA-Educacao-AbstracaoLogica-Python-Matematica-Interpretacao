@@ -22,8 +22,6 @@
 
 **Meu objetivo é transcender as barreiras do ensino básico de matemática no Brasil, oferecendo um caminho acessível e estimulante para o domínio de conceitos essenciais por meio da programação. Começo com fundamentos, como razões e proporções, avançando para conceitos mais sofisticados que exigem o uso de ferramentas computacionais avançadas para a visualização de dados e análise estatística.**
 
- </details>
- 
  <details>
     <summary><h3>Estrutura dos Notebooks</h3></summary>
 
@@ -35,6 +33,8 @@
 - **A aplicação de conceitos Matemáticos e de Programação** no contexto proposto.
 - **Exercícios para Prática Ativa**, visando a consolidação do aprendizado.
 
+ </details>
+ 
   <br><br>
   
 <details>
