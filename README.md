@@ -17,12 +17,17 @@
   <summary><h2>Objetivo</h2></summary>
 
   <p align="justify">
-    **Este é meu espaço dedicado a transformar o ensino e a aprendizagem de matemática e programação no Brasil, por meio do uso da ferramenta Google Colaboratory, fornecida pela Alphabet.**
+    Este é meu espaço dedicado a transformar o ensino e a aprendizagem de matemática e programação no Brasil, por meio do uso da ferramenta Google Colaboratory, fornecida pela Alphabet.
+  </p>
  
 
-**Aqui, ofereço uma coleção de notebooks interativos projetados para fortalecer a base matemática de estudantes e introduzi-los à lógica de programação com Python. Adoto uma metodologia prática e imersiva, permitindo que os alunos aprendam ativamente com exercícios integrados em cada passo do processo.**
+  <p align="justify">
+    Aqui, ofereço uma coleção de notebooks interativos projetados para fortalecer a base matemática de estudantes e introduzi-los à lógica de programação com Python. Adoto uma metodologia prática e imersiva, permitindo que os alunos aprendam ativamente com exercícios integrados em cada passo do processo.
+  </p>
 
-**Meu objetivo é transcender as barreiras do ensino básico de matemática no Brasil, oferecendo um caminho acessível e estimulante para o domínio de conceitos essenciais por meio da programação. Começo com fundamentos, como razões e proporções, avançando para conceitos mais sofisticados que exigem o uso de ferramentas computacionais avançadas para a visualização de dados e análise estatística.**
+  <p align="justify">
+    Meu objetivo é transcender as barreiras do ensino básico de matemática no Brasil, oferecendo um caminho acessível e estimulante para o domínio de conceitos essenciais por meio da programação. Começo com fundamentos, como razões e proporções, avançando para conceitos mais sofisticados que exigem o uso de ferramentas computacionais avançadas para a visualização de dados e análise estatística.
+  </p>
 
  <details>
     <summary><h3>Estrutura dos Notebooks</h3></summary>
@@ -53,12 +58,16 @@
   </table>
 </p>
 
-A base teórica e prática deste projeto se alinha com metodologias de aprendizado, integrando a abstração lógica e a resolução de problemas matemáticos através da programação em Python. O escopo é promover uma compreensão profunda dos conceitos, através de:
+  <p align="justify">
+    A base teórica e prática deste projeto se alinha com metodologias de aprendizado, integrando a abstração lógica e a resolução de problemas matemáticos através da programação em Python. O escopo é promover uma compreensão profunda dos conceitos, através de:
+  </p>
 
   <details>
     <summary><h3>Aprendizagem Baseada em Problemas (ABP)</h3></summary>
   
-Imersão em problemas complexos e reais, estimulando o pensamento crítico e a aplicação prática do conhecimento.
+  <p align="justify">
+    Imersão em problemas complexos e reais, estimulando o pensamento crítico e a aplicação prática do conhecimento.
+  </p>
   </details>
 
    <details>
