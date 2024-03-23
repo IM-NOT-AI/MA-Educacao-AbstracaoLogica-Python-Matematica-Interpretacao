@@ -48,14 +48,23 @@ A base teórica deste projeto se alinha com metodologias de aprendizado comprova
 ### Aprendizagem Baseada em Problemas (ABP)
 Imersão em problemas complexos e reais, estimulando o pensamento crítico e a aplicação prática do conhecimento.
 
+### Método de Feynman
+Simplificar e explicar conceitos complexos com uma linguagem simples, como se estivesse ensinando a alguém que não conhece o tema.
+
+### Codificação Dupla 
+Combinar palavras e imagens no aprendizado. Estudar utilizando tanto a explicação verbal quanto o apoio visual pode melhorar a retenção de informações.
+
+### Aprendizagem Interpolada
+Alternar entre diferentes tópicos ou tipos de problemas durante a sessão de estudo para melhorar a capacidade de discriminação entre conceitos e aumentar a retenção.
+
 ### Aprendizagem Ativa
 Participação ativa através de exercícios práticos e espaços de tentativa e erro, fundamentais para a consolidação do aprendizado.
 
 ### Repetição Espaçada
 Técnicas de revisão espaçada para facilitar a retenção de informação a longo prazo, garantindo que o conhecimento se fixe na memória do estudante.
 
-### Feedback Construtivo
-Orientações claras e feedback construtivo para apoiar o desenvolvimento contínuo dos estudantes, reconhecendo a importância da avaliação formativa no processo de aprendizagem.
+### Reflexão 
+Após uma sessão de estudo ou uma atividade de aprendizagem, dedicar um tempo para refletir sobre o que foi aprendido e como foi aprendido pode reforçar a memória e promover a compreensão profunda.
 
 ### Referências
 Para fundamentar a metodologia e práticas adotadas, apoio-me em uma vasta literatura educacional, incluindo:
@@ -71,12 +80,12 @@ Para fundamentar a metodologia e práticas adotadas, apoio-me em uma vasta liter
 
 ## Educação
 
-Acredito que a aprendizagem efetiva vai além do mero conhecimento teórico, englobando o desenvolvimento de habilidades práticas e o estímulo ao pensamento crítico. Esse repositório é desenhado para promover não só a absorção de conceitos matemáticos mas também para fomentar uma mentalidade de aprendizado contínuo e autodidata entre os estudantes.
+A aprendizagem efetiva vai além do mero conhecimento teórico, englobando o desenvolvimento de habilidades práticas e o estímulo ao pensamento crítico. Esse repositório é desenhado para promover não só a absorção de conceitos matemáticos e de programação mas também para fomentar uma mentalidade de aprendizado contínuo e autodidata entre os estudantes.
 
 
 ## Abstração Lógica
 
-A Abstração Lógica é crucial para o entendimento profundo da Matemática. Nosso projeto enfatiza a importância de desmembrar problemas complexos em componentes mais simples, facilitando a compreensão e a solução de exercícios. Através da programação em Python, os alunos aprendem a visualizar e manipular conceitos abstratos, tornando-os mais acessíveis.
+A Abstração Lógica é crucial para o entendimento profundo da matemática e programação. Esse projeto enfatiza a importância de desmembrar problemas complexos em componentes mais simples, facilitando a compreensão e a solução de exercícios. Através da programação em Python, os alunos aprendem a visualizar e manipular conceitos abstratos, tornando-os mais acessíveis.
 
 
 ## Python
