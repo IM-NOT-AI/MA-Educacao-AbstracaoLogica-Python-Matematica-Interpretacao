@@ -84,7 +84,8 @@ Alternar entre diferentes tópicos ou tipos de problemas durante a sessão de es
     <summary><h3>Reflexão</h3></summary> 
 Após uma sessão de estudo ou uma atividade de aprendizagem, dedicar um tempo para refletir sobre o que foi aprendido e como foi aprendido pode reforçar a memória e promover a compreensão profunda.
   </details>
-
+<details>
+  
 <details>
   <summary><h2>Educação</h2></summary>
 
