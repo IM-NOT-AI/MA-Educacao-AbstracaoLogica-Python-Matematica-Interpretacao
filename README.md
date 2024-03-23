@@ -133,5 +133,7 @@ Finalmente, a Interpretação de resultados é enfatizada em cada aspecto do pro
 
 <br><br>
 
-**Convido você a se juntar a mim nesta jornada educacional, onde cada arquivo .ipynb representa uma nova oportunidade de aprender, praticar e desbravar o mundo da matemática e programação. Estou comprometido em tornar a educação mais acessível, interativa e significativa para estudantes brasileiros.**
+<p align="justify">
+  <strong>Convido você a se juntar a mim nesta jornada educacional, onde cada arquivo .ipynb representa uma nova oportunidade de aprender, praticar e desbravar o mundo da matemática e programação. Estou comprometido em tornar a educação mais acessível, interativa e significativa para estudantes brasileiros.</strong>
+</p>
 
