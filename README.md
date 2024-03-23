@@ -11,12 +11,11 @@
   </table>
 </p>
 
+### Objetivo
 
 **Este é meu espaço dedicado a transformar o ensino e a aprendizagem de matemática e programação no Brasil, por meio do uso da ferramenta Google Colaboratory, fornecida pela Alphabet.**
 
 **Aqui, ofereço uma coleção de notebooks interativos projetados para fortalecer a base matemática de estudantes e introduzi-los à lógica de programação com Python. Adoto uma metodologia prática e imersiva, permitindo que os alunos aprendam ativamente com exercícios integrados em cada passo do processo.**
-
-### Objetivo
 
 **Meu objetivo é transcender as barreiras do ensino básico de matemática no Brasil, oferecendo um caminho acessível e estimulante para o domínio de conceitos essenciais por meio da programação. Começo com fundamentos, como razões e proporções, avançando para conceitos mais sofisticados que exigem o uso de ferramentas computacionais avançadas para a visualização de dados e análise estatística.**
 
@@ -86,9 +85,6 @@ A Matemática é o núcleo do nosso projeto. Cada arquivo .ipynb no repositório
 
 ## Interpretação
 Finalmente, a Interpretação de resultados é enfatizada em cada aspecto do projeto. Além de resolver problemas, os alunos são incentivados a analisar e interpretar os resultados obtidos, uma habilidade vital tanto no estudo da matemática quanto em sua aplicação prática. Este foco na interpretação ajuda a desenvolver pensadores críticos e solucionadores de problemas eficazes.
-
-O projeto "Metodologia Aplicada (MA)" é mais do que um repositório de problemas matemáticos; é uma plataforma integrada de aprendizado que utiliza a programação em Python para enriquecer a educação matemática. Com uma base teórica sólida e uma abordagem prática inovadora, buscamos promover uma compreensão profunda dos conceitos matemáticos e habilidades computacionais, preparando os estudantes para os desafios do futuro.
-
 
 
 
