@@ -93,7 +93,9 @@ Após uma sessão de estudo ou uma atividade de aprendizagem, dedicar um tempo p
 <details>
   <summary><h2>Educação</h2></summary>
 
-A aprendizagem efetiva vai além do mero conhecimento teórico, englobando o desenvolvimento de habilidades práticas e o estímulo ao pensamento crítico. Esse repositório é desenhado para promover não só a absorção de conceitos matemáticos e de programação mas também para fomentar uma mentalidade de aprendizado contínuo e autodidata entre os estudantes.
+  <p align="justify">
+    A aprendizagem efetiva vai além do mero conhecimento teórico, englobando o desenvolvimento de habilidades práticas e o estímulo ao pensamento crítico. Esse repositório é desenhado para promover não só a absorção de conceitos matemáticos e de programação mas também para fomentar uma mentalidade de aprendizado contínuo e autodidata entre os estudantes.
+  </p>
 </details>
 
 ---
