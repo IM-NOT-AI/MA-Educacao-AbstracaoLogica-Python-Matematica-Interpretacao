@@ -35,6 +35,7 @@
   
      </details>
    </details>
+   
   <br><br>
   
 <details>
@@ -53,7 +54,10 @@
 A base teórica e prática deste projeto se alinha com metodologias de aprendizado, integrando a abstração lógica e a resolução de problemas matemáticos através da programação em Python. O escopo é promover uma compreensão profunda dos conceitos, através de:
 
   <details>
-      <summary>Aprendizagem Baseada em Problemas (ABP)</summary>
+    <summary><h3>Aprendizagem Baseada em Problemas (ABP)</h3></summary>
+  
+  <br>
+  
 Imersão em problemas complexos e reais, estimulando o pensamento crítico e a aplicação prática do conhecimento.
   </details>
 
