@@ -55,10 +55,10 @@ A base teórica e prática deste projeto se alinha com metodologias de aprendiza
 Imersão em problemas complexos e reais, estimulando o pensamento crítico e a aplicação prática do conhecimento.
   </details>
 
- <details>
+   <details>
     <summary><h3>Codificação Dupla</h3></summary> 
 Combinar palavras e imagens no aprendizado. Estudar utilizando tanto a explicação verbal quanto o apoio visual pode melhorar a retenção de informações.
-  </details>
+    </details>
   
   <details>
     <summary><h3>Aprendizagem Ativa</h3></summary> 
