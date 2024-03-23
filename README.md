@@ -56,12 +56,11 @@ A base teórica e prática deste projeto se alinha com metodologias de aprendiza
   <details>
     <summary><h3>Aprendizagem Baseada em Problemas (ABP)</h3></summary>
   
-  <br>
-  
 Imersão em problemas complexos e reais, estimulando o pensamento crítico e a aplicação prática do conhecimento.
   </details>
 
-### Codificação Dupla 
+ <details>
+    <summary><h3>Codificação Dupla</h3></summary> 
 Combinar palavras e imagens no aprendizado. Estudar utilizando tanto a explicação verbal quanto o apoio visual pode melhorar a retenção de informações.
 
 ### Aprendizagem Ativa
