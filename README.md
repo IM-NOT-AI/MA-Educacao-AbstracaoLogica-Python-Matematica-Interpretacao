@@ -11,15 +11,19 @@
   </table>
 </p>
 
-### Objetivo
+<details>
+  <summary><h2>Objetivo</h2></summary>
 
+  <br>
+  
 **Este é meu espaço dedicado a transformar o ensino e a aprendizagem de matemática e programação no Brasil, por meio do uso da ferramenta Google Colaboratory, fornecida pela Alphabet.**
 
 **Aqui, ofereço uma coleção de notebooks interativos projetados para fortalecer a base matemática de estudantes e introduzi-los à lógica de programação com Python. Adoto uma metodologia prática e imersiva, permitindo que os alunos aprendam ativamente com exercícios integrados em cada passo do processo.**
 
 **Meu objetivo é transcender as barreiras do ensino básico de matemática no Brasil, oferecendo um caminho acessível e estimulante para o domínio de conceitos essenciais por meio da programação. Começo com fundamentos, como razões e proporções, avançando para conceitos mais sofisticados que exigem o uso de ferramentas computacionais avançadas para a visualização de dados e análise estatística.**
 
-### Estrutura dos Notebooks
+ <details>
+    <summary><h3>Estrutura dos Notebooks</h3></summary>
 
 **Cada notebook é criado como uma "página" de aprendizado que contém:**
 
@@ -29,8 +33,10 @@
 - **A aplicação de conceitos Matemáticos e de Programação** no contexto proposto.
 - **Exercícios para Prática Ativa**, visando a consolidação do aprendizado.
 
-
-## Metodologia Aplicada (MA)
+  <br><br>
+  
+<details>
+  <summary><h2>Metodologia Aplicada (MA)</h2></summary>
 
 <p align="center">
   <table>
@@ -44,8 +50,10 @@
 
 A base teórica e prática deste projeto se alinha com metodologias de aprendizado, integrando a abstração lógica e a resolução de problemas matemáticos através da programação em Python. O escopo é promover uma compreensão profunda dos conceitos, através de:
 
-### Aprendizagem Baseada em Problemas (ABP)
+  <details>
+      <summary>Aprendizagem Baseada em Problemas (ABP)</summary>
 Imersão em problemas complexos e reais, estimulando o pensamento crítico e a aplicação prática do conhecimento.
+  </details>
 
 ### Codificação Dupla 
 Combinar palavras e imagens no aprendizado. Estudar utilizando tanto a explicação verbal quanto o apoio visual pode melhorar a retenção de informações.
