@@ -91,11 +91,15 @@
   <table>
     <tr>
       <td><img src="https://github.com/IM-NOT-AI/MA-Educacao-AbstracaoLogica-Python-Matematica-Interpretacao/assets/113378671/2ca63518-ebb3-4eb9-98a5-f45c7c4a521e" alt="fusca_foto_ic" width="1500"></td>
-      <td><img src="https://github.com/IM-NOT-AI/MA-Educacao-AbstracaoLogica-Python-Matematica-Interpretacao/assets/113378671/db1ea24e-518f-466e-a0a7-7418234f3ad9" width=750</td>
+      <td><img src="https://github.com/IM-NOT-AI/MA-Educacao-AbstracaoLogica-Python-Matematica-Interpretacao/assets/113378671/dd67bd0b-9e9c-4707-b58e-4d8460baeb44" width=750</td>
     </tr>
   </table>
   </p>
+
+<p align="justify">
+  Após o **ENUNCIADO**.em todos os arquivos haverá uma seção de **TENTATIVA DE RESOLUÇÃO (TDR)
   
+</p>
   </details>
 
   <details>
